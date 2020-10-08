@@ -1,7 +1,8 @@
 # SocialDistanceYOLORaspberry
 <br />
 Description :: This application is about a Social Distance Monitoring system using Raspberry Pi based on YOLOv3 pretrained model.<br /><br />
-## Tips:<br />
+
+## Tips:
 1- Download weights file from : https://pjreddie.com/media/files/yolov3-tiny.weights
 <br />2- Add the downloaded file to src folder<br />
 <br />
