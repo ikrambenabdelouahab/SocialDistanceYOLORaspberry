@@ -1,5 +1,8 @@
 # SocialDistanceYOLORaspberry
 <br />
+Find out more about this work at : https://link.springer.com/chapter/10.1007%2F978-3-030-66840-2_91
+<br />
+<br />
 Description :: This application is about a Social Distance Monitoring system using Raspberry Pi based on YOLOv3 pretrained model.<br /><br />
 
 ## Tips:
